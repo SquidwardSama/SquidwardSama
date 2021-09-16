@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 ## Music Playing 🎵
 
-<p align="left">
+<p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&redirect=true">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&cover_image=true&theme=default">

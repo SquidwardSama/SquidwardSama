@@ -10,14 +10,6 @@
 ## View My Repositories 👇
 ---
 
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta charset="utf-8" />
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		<title>This is a test</title>
-	</head>
-<body>
 <h1>This is a test</h1>
 
 <p><a href="https://www.youtube.com/watch?v=iv8rSLsi1xo">Intro to GitHub</a></p>

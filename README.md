@@ -8,7 +8,7 @@ I'm firm believer in the notion that the **learning never stops until you’re �
 
 ---
 
-### How it's going 📈
+### How it's been going 📈
 
 ![Livingston's GitHub stats](https://github-readme-stats.vercel.app/api?username=squidwardsama&show_icons=true&theme=dracula)
 

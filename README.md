@@ -1,4 +1,4 @@
-# **Welcome to My GitHub Profile** 😁
+# **Welcome to My GitHub Profile**
 
 Thanks for stopping by and feel free to checkout my Repos!
 

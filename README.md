@@ -20,7 +20,7 @@ I'm firm believer in the notion that the **learning never stops until you’re �
 
 ---
 
-### Reach Out 👯
+### Reach Out 🤝
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/squidwardsama/) 
 

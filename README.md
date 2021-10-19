@@ -7,7 +7,7 @@ I use GitHub as a showcase for my work as a  budding Data Analyst 🤓
 I'm firm believer in the notion that the **learning never stops until you’re 💀**
 
 ---
-###  My Skill Stack:
+###  My Skill Stack 👨🏾‍💻
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) 
@@ -20,13 +20,11 @@ I'm firm believer in the notion that the **learning never stops until you’re �
 
 ---
 
-### Reach Out!
+### Reach Out 👯
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/squidwardsama/) 
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/livingston.akoma)
-
-![Discord]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white})
 
 ---
 ### How it's been going 📈

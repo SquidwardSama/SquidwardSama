@@ -8,6 +8,7 @@ I'm firm believer in the notion that the **learning never stops until youâ€™re ð
 
 ---
 ###  My Skill Stack:
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,6 +17,17 @@ I'm firm believer in the notion that the **learning never stops until youâ€™re ð
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+---
+
+### Reach Out!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/squidwardsama/) 
+
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/livingston.akoma)
+
+![Discord](https://img.shields.io/badge/Discord_Derayway#4531?style=for-the-badge&logo=discord&logoColor=white) 
+
 ---
 ### How it's been going ðŸ“ˆ
 

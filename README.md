@@ -26,7 +26,7 @@ I'm firm believer in the notion that the **learning never stops until you’re �
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/livingston.akoma)
 
-[![Discord](https://img.shields.io/badge/Discord-Derayway?style=for-the-badge&logo=discord&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-Derayway?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 ### How it's been going 📈

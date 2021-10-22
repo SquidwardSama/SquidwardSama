@@ -6,7 +6,7 @@ I use GitHub as a showcase for my work as a  budding Data Analyst 🤓
 
 I'm firm believer in the notion that the **learning never stops until you’re 💀** 
 
-_I honestly wish I were immortal so I could learn everything about everything (._.)_
+_I honestly wish I were immortal so I could learn everything about everything 😔_
 
 ---
 ###  My Skill Stack 👨🏾‍💻

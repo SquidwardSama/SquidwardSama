@@ -26,6 +26,8 @@ I'm firm believer in the notion that the **learning never stops until you’re �
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/livingston.akoma)
 
+[![Twitter]({https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white})](https://twitter.com/SquidWardSama)
+
 ---
 ### How it's been going 📈
 
